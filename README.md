@@ -1,5 +1,4 @@
 # MVC_ProductsCRUD
-# Projeto de entrevistas: **pontos-web**
 
 ## qual a expectativa?
 
@@ -18,13 +17,9 @@ CRUD completo envolvendo a tabela **Produtos**
 
 - projeto .NET MVC
 - banco de dados
-
-## como envio meu código?
-
-1. clone esse repo no seu ambiente local
-2. crie uma branch com seu nome (ex: feature/meu-nome)
-3. ao finalizar o desenvolvimento local, faça o push para sua branch no origin
-4. abra um `merge request` da sua branch para a master
+- utilizando Unity of Work
+- Repository generico
+- divisao de camadas
 
 ## qual a estrutura de dados?
 
