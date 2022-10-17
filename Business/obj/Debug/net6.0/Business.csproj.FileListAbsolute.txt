@@ -1,0 +1,34 @@
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\DataBase.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\DataBase.pdb
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\IntermediateModels.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\IntermediateModels.pdb
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\Business.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\DataBase.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\IntermediateModels.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\DataBase.pdb
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\bin\Debug\net6.0\IntermediateModels.pdb
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\thudi\OneDrive\Área de Trabalho\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Business\obj\Debug\net6.0\ref\Business.dll

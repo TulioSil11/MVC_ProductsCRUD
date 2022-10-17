@@ -1,0 +1,12 @@
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\bin\Debug\net6.0\Intermediario.deps.json
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\bin\Debug\net6.0\Intermediario.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\bin\Debug\net6.0\Intermediario.pdb
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.csproj.AssemblyReference.cache
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.AssemblyInfoInputs.cache
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.AssemblyInfo.cs
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.csproj.CoreCompileInputs.cache
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\refint\Intermediario.dll
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\Intermediario.pdb
+C:\Users\Tulio\Downloads\Estudos\ProjetoSoma\pontos-web\MVC_TesteSomaVantagens\Intermediario\obj\Debug\net6.0\ref\Intermediario.dll
